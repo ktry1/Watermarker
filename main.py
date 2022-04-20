@@ -261,7 +261,7 @@ window.setWindowIcon(window.icon)
 
 
 window.show()
-styles=QStyleFactory()
+
 
 app.setStyle('Fusion')
 
