@@ -268,5 +268,5 @@ app.setStyle('Fusion')
 app.exec()
 
 
-#watermark appliance mechanism
+
 
